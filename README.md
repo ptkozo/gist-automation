@@ -51,6 +51,8 @@ npx cypress run --reporter mochawesome
 After execution is complete look for mochawesome-report folder inside main folder
 
 ## Test Run
+![image](https://github.com/user-attachments/assets/25fb203d-a33a-4a36-9da9-01183e4ecd1d)
+
 ![image](https://github.com/user-attachments/assets/a744f88e-ad9b-4aef-b86b-801319218b87)
 
 
