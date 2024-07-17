@@ -37,14 +37,20 @@ npm install cypress-mochawesome-reporter
 
 
 ## Execution
-In order to run the script, just need to run the following using cypress
+1. Clone repository
+```bash
+mkdir ~/gitrepo
+cd ~/gitrepo
+git clone https://github.com/ptkozo/gist-automation.git
+```
+2. Run in terminal
 ```bash
 npx cypress run
 ```
 
 or
 
-If you want to run and generate html report
+3. Run in terminal and generate html report
 ```bash
 npx cypress run --reporter mochawesome
 ```
