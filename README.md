@@ -53,8 +53,7 @@ After execution is complete look for mochawesome-report folder inside main folde
 ## Test Run
 ![image](https://github.com/user-attachments/assets/25fb203d-a33a-4a36-9da9-01183e4ecd1d)
 
-![image](https://github.com/user-attachments/assets/a744f88e-ad9b-4aef-b86b-801319218b87)
-
-
 ## Test Run with html report
-![image](https://github.com/user-attachments/assets/607d0366-540c-42c0-a03c-6eabe9346093)
+![image](https://github.com/user-attachments/assets/a5344780-6961-45c9-8727-ee538cd4486a)
+
+
