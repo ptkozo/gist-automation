@@ -1,7 +1,7 @@
 describe('GitHub Gists API', () => {
-  const token = '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';
+  const token = '';
   const apiUrl = 'https://api.github.com/gists';
-  const username = 'ptkozo';
+  const username = '';
   let gistId;
 
   it('Test 1 - Creating a Gist', () => {
